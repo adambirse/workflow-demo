@@ -1,4 +1,4 @@
-package com.workflow.demo.camel;
+package com.workflow.demo.rest;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.model.rest.RestBindingMode;
